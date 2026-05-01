@@ -1,6 +1,6 @@
 # santoshmm42-collab-
 # 💫 About Me:
-👋 Hi, I’m Santosh<br><br>💻 I’m currently working on: Web development projects and improving my coding skills  <br>🤝 I’m looking to collaborate on: Beginner-friendly web and software projects  <br>🆘 I’m looking for help with: Data Structures and Algorithms (DSA) and problem solving  <br>📚 I’m currently learning: MERN stack, Data Analytics, and Cloud (Azure)  <br>💬 Ask me about: Basic Python, web development, and coding journey  <br>⚡ Fun fact: I enjoy learning new tech and solving coding challenges every day
+👋 Hello, I’m Santosh M M ,<br><br>💻 I’m currently working on: Web development projects and improving my coding skills  <br>🤝 I’m looking to collaborate on: Beginner-friendly web and software projects  <br>🆘 I’m looking for help with: Data Structures and Algorithms (DSA) and problem solving  <br>📚 I’m currently learning: MERN stack, Data Analytics, and Cloud (Azure)  <br>💬 Ask me about: Basic Python, web development, and coding journey  <br>⚡ Fun fact: I enjoy learning new tech and solving coding challenges every day
 
 
 ## 🌐 Socials:
